@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "f781e89019a7fe16",
+    "type": "split",
+    "children": [
+      {
+        "id": "8146122f5cbcbbd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "440c214d1d785014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT/GIT удаленный репозиторий подключение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d0f4754c3a03a3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9338f4e38fd3923d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42e79ca5603abbad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bf2c3f896c507b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06bf0d406e49237e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d37fe1146c51984",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5
+  },
+  "right": {
+    "id": "a19eb9b0b3f414bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5e2cdb542c47d9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "803eb96e23c9568b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GIT/GIT удаленный репозиторий подключение.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "985d43446d937f8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GIT/GIT удаленный репозиторий подключение.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e60c0471cb1dca76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73ed45be4b24f88c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GIT/GIT удаленный репозиторий подключение.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "440c214d1d785014",
+  "lastOpenFiles": [
+    "GIT/GIT слияние веток.md",
+    "GIT/GIT diff сравнение файлов.md",
+    "GIT/GIT удаленный репозиторий подключение.md",
+    "GIT/GIT удаленный репозиторий обновление.md",
+    "GIT/GIT commit.md",
+    "GIT/GIT gitignore.md",
+    "GIT/_GIT - выдержки.md",
+    "GIT/GIT status log diff.md",
+    "GIT/GIT stash.md",
+    "GIT/GIT удаление восстановление файлов.md",
+    "GIT/GIT настройка.md"
+  ]
+}
