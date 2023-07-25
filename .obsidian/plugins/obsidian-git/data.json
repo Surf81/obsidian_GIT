@@ -1,5 +1,5 @@
 {
-  "commitMessage": "vault backup (home PC): {{date}}",
+  "commitMessage": "vault backup (analit PC): {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 10,
   "autoPushInterval": 0,
@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "vault backup (home PC): {{date}}"
+  "autoCommitMessage": "vault backup (analit PC): {{date}}"
 }

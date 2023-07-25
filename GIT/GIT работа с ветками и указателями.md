@@ -17,8 +17,35 @@
 |-|-|
 |git branch <ключ> <имя ветки>|создание ветки (текущие рабочие данные при создании ветки не копируются, просто создается новый указатель на текущий коммит)|
 |git branch|вывести список локальных веток (символом `*` помечается текущая ветка)|
+|git branch -v|вывести список локальных веток с указанием коммита|
 |git branch -r|вывести список удаленных (remote) веток|
 |git branch -a|вывести список всех существующих веток|
+
+## Создание новой локальной ветки из удаленной
+
+```bash
+git checkout -b <имя локальной ветки> <origin/имя удаленной ветки>
+```
+
+## Создать ветку, которая будет отслеживать изменения ветки удаленного репозитория
+
+```shell
+git branch --track <имя> origin/<имя>
+
+# например если в удаленном репозитории есть ветка origin/style
+git branch --track style origin/style
+```
+
+## Присоединение локальной ветки к удаленной
+
+```bash
+git branch local_branch_name --set-upstream-to origin/remote_branch_name
+
+git branch local_branch_name -u your_new_remote/remote_branch_name
+
+# В старых версиях:
+git branch --set-upstream local_branch_name your_new_remote/remote_branch_name
+```
 
 ## Переключение между ветками
 

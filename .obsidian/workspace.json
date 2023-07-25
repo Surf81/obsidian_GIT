@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/GIT слияние веток.md",
+                "file": "GIT/GIT работа с ветками и указателями.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/GIT слияние веток.md",
+                "file": "GIT/GIT работа с ветками и указателями.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/GIT слияние веток.md",
+                "file": "GIT/GIT работа с ветками и указателями.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/GIT слияние веток.md"
+                "file": "GIT/GIT работа с ветками и указателями.md"
               }
             }
           }
@@ -156,16 +156,18 @@
   },
   "active": "440c214d1d785014",
   "lastOpenFiles": [
-    "GIT/GIT удаленный репозиторий подключение.md",
-    "GIT/GIT слияние веток.md",
-    "GIT/GIT diff сравнение файлов.md",
     "GIT/GIT удаленный репозиторий обновление.md",
+    "GIT/_GIT - выдержки.md",
+    "GIT/GIT работа с ветками и указателями.md",
+    "GIT/настройка alias.md",
+    "GIT/GIT настройка.md",
+    "GIT/GIT слияние веток.md",
+    "GIT/GIT удаленный репозиторий подключение.md",
+    "GIT/GIT diff сравнение файлов.md",
     "GIT/GIT commit.md",
     "GIT/GIT gitignore.md",
-    "GIT/_GIT - выдержки.md",
     "GIT/GIT status log diff.md",
     "GIT/GIT stash.md",
-    "GIT/GIT удаление восстановление файлов.md",
-    "GIT/GIT настройка.md"
+    "GIT/GIT удаление восстановление файлов.md"
   ]
 }
