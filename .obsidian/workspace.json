@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6dcc7fd34187f147",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42e79ca5603abbad",
+  "active": "6dcc7fd34187f147",
   "lastOpenFiles": [
     "GIT/GIT удаленный репозиторий обновление.md",
     "GIT/_GIT - выдержки.md",
